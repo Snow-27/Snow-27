@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Still-got-it/Still-got-it/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/Still-got-it/Snow-27/main/banner.png" width="100%">
 
 <br><br>
 
